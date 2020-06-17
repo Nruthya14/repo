@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+       "id": 1,
+       "title": "Check out the Competition",
+       "body": "Another easy way to get inspiration for topics and titles for your content strategy is by checking out what is working for the competition"
+    },
+    {
+    "userId": 2,
+       "id": 2,
+       "title": "Brainstorm with your Team",
+       "body": "If you are stuck for topic and title ideas for your content strategy, then brainstorming with other members in your team might help. Brainstorming is an easy way to generate multiple ideas in a short space of time."
+    },
+    {
+    "userId": 3,
+       "id": 3,
+       "title": "Create a Word Storm",
+       "body": "Start by writing down one word perhaps a popular keyword that you have overused. Next, write down whatever words come to mind when you think of that original word. In a few minutes, you should have several new topic and title ideas."
+    },
+    {
+    "userId": 4,
+       "id": 4,
+       "title": "Get Visual",
+       "body": "Using visual prompts is a great way to get more from your brainstorming. Before a brainstorming session, ask your team members to bring 5 industry related images with them. Examine the images together and see if they spark any ideas."
+    },
+    {
+    "userId": 5,
+       "id": 5,
+       "title": "Search Forums",
+       "body": "Forums are a great way to find out what content your potential customers are in need of right now. If the information is not out there, or it is hard to find, then people will generally head to a forum to ask their question. These questions can make it easy for you to find new topics and titles for your content strategy."
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
